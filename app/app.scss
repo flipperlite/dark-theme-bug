@@ -1,0 +1,12 @@
+@import "~@nativescript/theme/core";
+@import "~@nativescript/theme/blue";
+
+$selectedColor: #0000ff;
+
+.myfontsize {
+    font-size: 40;
+}
+
+.mycolor {
+    background-color: $selectedColor;
+}

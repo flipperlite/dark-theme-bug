@@ -1,0 +1,10 @@
+@import '~@nativescript/theme/css/core.css';
+@import '~@nativescript/theme/css/blue.css';
+
+.myfontsize {
+    font-size: 18;
+}
+
+.mycolor {
+    background-color: #0000ff;
+}
